@@ -1,0 +1,30 @@
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Build output directories (e.g., Maven, Gradle)
+bin/
+target/
+build/
+out/
+
+# Log files
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
